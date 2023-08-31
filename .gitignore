@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# database
+db/db.sqlite
+db/db-test.sqlite
+
+# environment variables
+.env
+.env.test
+
+# production
+build
+
+# test
+coverage
