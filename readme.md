@@ -8,7 +8,7 @@
 # Regras de Negócio
 
 - [RN01][X] O sistema deve permitir transações do tipo crédito que somará ao valor total da conta ou do tipo débito que subtrairá do valor total da conta;
-- [RN02][ ] O sistema deve identificar o usuário entre as requisições;
-- [RN03][ ] O sistema deve retornar uma lista filtrada de transações, somente às que pertencem ao cliente;
+- [RN02][X] O sistema deve identificar o usuário entre as requisições;
+- [RN03][X] O sistema deve retornar uma lista filtrada de transações, somente às que pertencem ao cliente;
 
 # Requisitos não Funcionais
